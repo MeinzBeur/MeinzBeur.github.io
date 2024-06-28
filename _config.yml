@@ -193,9 +193,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
+  Freediving:
     output: true
-    permalink: /projects/:path/
+    permalink: /Freediving/:path/
 
 announcements:
   enabled: true
