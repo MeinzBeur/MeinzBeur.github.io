@@ -5,7 +5,7 @@ permalink: /freediving/
 description: Theoretical course for diving courses.
 nav: true
 nav_order: 3
-display_categories: [CMAS*** Freediving] #work, fun
+display_categories: [CMAS*** Freediving, work]
 horizontal: false
 ---
 
