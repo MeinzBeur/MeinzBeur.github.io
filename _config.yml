@@ -195,7 +195,10 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    permalink: /Freediving/:path/
+    permalink: /projects/:path/
+  freediving:
+    output: true
+    permalink: /freediving/:path/
 
 announcements:
   enabled: true
