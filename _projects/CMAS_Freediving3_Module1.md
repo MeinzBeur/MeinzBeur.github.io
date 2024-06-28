@@ -3,8 +3,8 @@ layout: page
 title: Module 1 Introduction
 description: Introduction to the course
 img: assets/img/Manta.jpg
-importance: 1
-category: CMAS Freediving ***
+importance: 6
+category: work
 ---
 
 Welcome to the CMAS*** freediving course!
