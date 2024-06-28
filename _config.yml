@@ -193,7 +193,7 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  project:
+  projects:
     output: true
     permalink: /Freediving/:path/
 
