@@ -9,7 +9,7 @@ display_categories: [CMAS*** Freediving, CMAS* Apnea]
 horizontal: false
 ---
 
-<h1>Freediving</h1>
+<!-- <h1>Freediving</h1>
 
 <div class="freediving">
   {% assign sorted_freediving = site.freediving | sort: "importance" %}
@@ -19,7 +19,7 @@ horizontal: false
       <p>{{ freedive.excerpt }}</p>
     </div>
   {% endfor %}
-</div>
+</div> -->
 
 <!-- pages/freediving.md -->
 <div class="freediving">
