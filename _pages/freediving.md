@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: freediving
 permalink: /projects/
 description: Theory lessons for freediving courses
 nav: true
