@@ -1,7 +1,7 @@
 ---
 layout: page
 title: freediving
-permalink: /projects/
+permalink: /freediving/
 description: Theory lessons for freediving courses
 nav: true
 nav_order: 3
