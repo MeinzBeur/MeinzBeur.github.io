@@ -2,7 +2,7 @@
 layout: page
 title: Module 2
 description: Introduction to the course
-img: assets/img/Manta.jpg
+img: assets/img/freediving/Whaleshark.png
 importance: 2
 category: CMAS*** Freediving
 ---
