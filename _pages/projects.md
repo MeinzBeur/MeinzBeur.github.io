@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Theory lessons for freediving courses
+description: some projects
 nav: true
 nav_order: 3
-display_categories: [CMAS*** Freediving] # work, fun, 
+display_categories: [work, fun] 
 horizontal: false
 ---
 
