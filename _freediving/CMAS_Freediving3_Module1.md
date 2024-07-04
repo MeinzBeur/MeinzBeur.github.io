@@ -1,71 +1,29 @@
 ---
 layout: page
-title: Module 1
+title: Theory - Module 1
 description: Introduction to the course
 img: assets/img/freediving/Manta.jpg
 importance: 1
-category: CMAS*** Freediving
+category: CMAS*** Snorkeling
 ---
 
-Welcome to the CMAS*** freediving course!
-This first module aims
+Welcome to the CMAS*** snorkeling course!
+This first module is an introduction to the course, explains what you will go through, presents the Norwegian diving federation and the CMAS system that this course is part of.
 
+## The CMAS*** snorkeling course
+This course is the third level of the CMAS snorkeling courses. The general aims of the snorkeling course is to teach people to be confortable in the water. This goes trough some practice in the swimming pool and the sea, and some theoretical lessons on various aspects of snorkeling: Physiology, physics, security, marine life, etc... There is not much difference between the CMAS*, CMAS** and CMAS*** snorkeling course: The theory is the same, but in CMAS* you are supposed to have heard about the concepts, in CMAS** you should have understood the concepts, and in CMAS*** you should be able to explain to others. Similarly, the pool and sea features that you need to be able to do are similar but get a bit harder form the first to the third level. You do not need to have done CMAS* and CMAS** in order to start CMAS*\*\*. However, CMAS*** snorkeling is needed to start the CMAS* Apnea course where you would learn to dive deeper and longer (==Fig 1==)./n
+You do not need much equipment for this course. The theoretical part is mainly written here, and we will go through the modules together too. If you want, the book [Fridykking for alle](https://www.adlibris.com/no/bok/fridykking-for-alle-9788245036688?gad_source=1&gclid=CjwKCAjwkJm0BhBxEiwAwT1AXH10-jm4ygDQnsiSZ8S3iXNSTtUMlt7kZB5H4gvcLOSPgJJJT_jaWRoCCq0QAvD_BwE) is a good complement but not needed. At the end of the theory part you will have a little exam where you need to achieve 75% good answers. For the pool training, you will need only a mask, snorkel, and fins. For the sea training, you will need a diving suit and a belt on top of the mask, the snorkel and the fins (see Module 2 for more information).
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+FIG 1
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Norges Dykkerforbund
+The Norwegian diving federation regroups all underwater activities in Norway, for example scubadiving, apnea, underwater rugby, spearfishing, underwater photo/videos... Through the federation you can have access to the list of all the clubs in Norway. They also organise competitions and events, and have recently opened a division linked to [marine pollution](https://ndf.no/marin-forsopling/). A lot of information can be found on [their webpage]((https://ndf.no)) regarding diving in Norway.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## CMAS: Confederation mondiale des activites subaquatiques
+The world underwater federation ([CMAS](https://www.cmas.org)) was created in Monaco in 1957 and aims to provide standards for suaquatique activities around the globe. It had the famous frenchman Jaques Cousteau as first president. CMAS is nowadays divided in several committees:
+- The sports committee is responsible for 11 different activities, such as apnea, scubadiving, underwater hockey and rugby, underwater photography, spearfishing, underwater orientation, and others. They organise events and competitions at the mundial level, and homologate records.
+- The technical committee is responsible for setting up standards, protocols and requirements for various responsibilities. They are in charge of the whole education system to which this course is part of.
+- The scientific committee is linked to underwater research, and aims at providing some standards in this regards. They have produced a code of proper underwater scientific behavior together with the UNESCO. Recently they have given more and more focus to the protection of the underwater enviroment.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+CMAS has a conflicting relationship with freediving. In the 70s, after some accidents, they decided to stop organising freediving competitions. Only in the 90s did they start again in pools, and in 2004 in the sea. In the meantime, [AIDA](https://www.aidainternational.org) was created to fill the gap. Nowadays competitions are organised under both federations, and typically different countries are member of one or the other. Norway is linked to CMAS, and this is why the CMAS system is mainly taught here. You can find more info about both systems on [this article](https://molchanovs.com/blogs/freediving-competition-guides/international-freediving-federations-you-need-to-know-cmas-vs-aida).
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

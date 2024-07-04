@@ -5,7 +5,7 @@ permalink: /freediving/
 description: Theory lessons for freediving courses
 nav: true
 nav_order: 7
-display_categories: [CMAS*** Freediving, CMAS* Apnea] 
+display_categories: [CMAS*** Snorkeling, CMAS* Apnea] 
 horizontal: false
 ---
 
